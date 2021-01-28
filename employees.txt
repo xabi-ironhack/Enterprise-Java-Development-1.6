@@ -1,0 +1,11 @@
+Name,Surname,employeeId,salary,position
+John,"Doe","20206661",100000",Tech Lead
+Juan,"Perez","20206662",70000",Tech Lead
+Ana,"Matos","20206663",100000",Tech Lead
+Nicolas,"Sanchez","20206664",20000",Junior Programmer
+Olivia,"Lopez","20206665",90000",Tech Lead
+Claudia,"Gonzalez","20206666",10000",Junior Programmer
+Irene,"Hernandez","20206667",100000",Tech Lead
+Laura,"Delgado","20206668",55000",Tech Lead
+Hugo,"Lopez","20206669",30000",Tech Lead
+Diego,"Torres","20206660",450000",Tech Lead
